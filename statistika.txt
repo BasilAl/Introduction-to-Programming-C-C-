@@ -1,0 +1,3 @@
+Debtors with 4 children: 54
+Debtors with 3 children and debt higher than 100.000: 87 
+ Debtors with 3 children and debt higher than 100.000 as percentage of total debtors: 5.800%
